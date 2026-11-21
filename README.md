@@ -1,47 +1,63 @@
+
 <div align="center">
 
+<!-- ================= TECH STACK ================= -->
+
+<img src="https://img.shields.io/badge/%20C++%20-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/%20Python%20-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/%20SQL%20-0F80CC?style=flat&logo=sqlite&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/%20PostgreSQL%20-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/%20MongoDB%20-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/%20GitHub%20-24292F?style=flat&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/%20Docker%20-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
+
+<br>
+
+<img src="https://img.shields.io/badge/%20Azure%20-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
+<img src="https://img.shields.io/badge/%20AWS%20-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="Amazon AWS" />
+<img src="https://img.shields.io/badge/%20Claude_Code%20-D97757?style=flat&logo=claude&logoColor=white" alt="Claude Code" />
+<img src="https://img.shields.io/badge/%20OpenAI_Codex%20-10A37F?style=flat&logo=openai&logoColor=white" alt="OpenAI Codex" />
+
+<br>
+<br>
+
+<!-- ================= ABOUT ================= -->
+
+<h2>Who am I</h2>
 
 <p>
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-C58C20?style=flat&amp;logo=sqlite&amp;logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&amp;logo=postgresql&amp;logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&amp;logo=mongodb&amp;logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-24292F?style=flat&amp;logo=github&amp;logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=docker&amp;logoColor=white" />
+  I'm a software developer focused on building reliable,
+  maintainable, and efficient applications.
+  I apply software design principles and optimization techniques
+  while expanding my knowledge of system design and software architecture.
+  I leverage AI-assisted development tools to improve productivity,
+  while making architectural and engineering decisions independently.
 </p>
 
-<p>
-  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat&amp;logo=microsoftazure&amp;logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=flat&amp;logo=amazonwebservices&amp;logoColor=white" />
-  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&amp;logo=claude&amp;logoColor=white" />
-  <img alt="OpenAI Codex" src="https://img.shields.io/badge/OpenAI%20Codex-10A37F?style=flat&amp;logo=openai&amp;logoColor=white" />
-</p>
+<br>
 
-<br />
+<!-- ================= GITHUB METRICS ================= -->
 
-<!-- ABOUT -->
-<h1>Who Am I</h1>
-
-<p>
-I'm a software developer focused on building reliable, maintainable, and efficient applications.
-I apply software design principles and optimization techniques while expanding my knowledge
-of system design and software architecture. I use AI-assisted development tools to improve
-productivity while making architectural and engineering decisions independently.
-</p>
-
-<br />
-
-<!-- GITHUB STATS: live service with caching -->
 <h2>GitHub Metrics</h2>
 
-<img alt="GitHub statistics for sub00t" height="180" src="https://github-readme-stats.vercel.app/api?username=sub00t&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;rank_icon=github" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=sub00t&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"
+  alt="GitHub Statistics"
+  height="180"
+/>
 
-<br />
+<br>
 
-<!-- LANGUAGES -->
+<!-- ================= LANGUAGES ================= -->
+
 <h2>Most Used Languages</h2>
 
-<img alt="Most used languages for sub00t" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sub00t&amp;layout=donut&amp;theme=github_dark&amp;hide_border=true" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sub00t&layout=donut&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9"
+  alt="Most Used Languages"
+  height="220"
+/>
+
+<br>
 
 </div>
