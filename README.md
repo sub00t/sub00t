@@ -1,44 +1,47 @@
 <div align="center">
 
-<!-- TECH STACK: ready-made SVG brand icons + GitHub native font -->
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="25" height="25" alt="C++" /> <strong>C++</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" height="25" alt="Python" /> <strong>Python</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://api.iconify.design/mdi/database.svg?color=%23E6A23C" width="25" height="25" alt="SQL" /> <strong>SQL</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="25" height="25" alt="PostgreSQL" /> <strong>PostgreSQL</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="25" height="25" alt="MongoDB" /> <strong>MongoDB</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/8B949E" width="25" height="25" alt="GitHub" /> <strong>GitHub</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="25" height="25" alt="Docker" /> <strong>Docker</strong>
+<p>
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&amp;logo=cplusplus&amp;logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&amp;logo=python&amp;logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-C58C20?style=flat&amp;logo=sqlite&amp;logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&amp;logo=postgresql&amp;logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat&amp;logo=mongodb&amp;logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-24292F?style=flat&amp;logo=github&amp;logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat&amp;logo=docker&amp;logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="25" height="25" alt="Azure" /> <strong>Azure</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="34" height="25" alt="AWS" /> <strong>AWS</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/claude/D97757" width="25" height="25" alt="Claude Code" /> <strong>Claude Code</strong>&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/openai/10A37F" width="25" height="25" alt="OpenAI Codex" /> <strong>OpenAI Codex</strong>
+<p>
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Azure-0078D4?style=flat&amp;logo=microsoftazure&amp;logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=flat&amp;logo=amazonwebservices&amp;logoColor=white" />
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&amp;logo=claude&amp;logoColor=white" />
+  <img alt="OpenAI Codex" src="https://img.shields.io/badge/OpenAI%20Codex-10A37F?style=flat&amp;logo=openai&amp;logoColor=white" />
 </p>
 
 <br />
 
-<h2>Who am I</h2>
+<!-- ABOUT -->
+<h1>Who Am I</h1>
 
 <p>
 I'm a software developer focused on building reliable, maintainable, and efficient applications.
-I apply software design principles and optimization techniques while expanding my knowledge of system design and software architecture.
-I leverage AI-assisted development tools to improve productivity while making architectural and engineering decisions independently.
+I apply software design principles and optimization techniques while expanding my knowledge
+of system design and software architecture. I use AI-assisted development tools to improve
+productivity while making architectural and engineering decisions independently.
 </p>
 
 <br />
 
+<!-- GITHUB STATS: live service with caching -->
 <h2>GitHub Metrics</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sub00t&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;title_color=58A6FF&amp;icon_color=58A6FF&amp;text_color=C9D1D9" alt="GitHub statistics" height="180" />
+<img alt="GitHub statistics for sub00t" height="180" src="https://github-readme-stats.vercel.app/api?username=sub00t&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;rank_icon=github" />
 
 <br />
 
+<!-- LANGUAGES -->
 <h2>Most Used Languages</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sub00t&amp;layout=donut&amp;theme=transparent&amp;hide_border=true&amp;title_color=58A6FF&amp;text_color=C9D1D9" alt="Most used languages" height="220" />
+<img alt="Most used languages for sub00t" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sub00t&amp;layout=donut&amp;theme=github_dark&amp;hide_border=true" />
 
 </div>
