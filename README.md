@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/badge/%20C++%20-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/%20Python%20-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/%20SQL%20-0F80CC?style=flat&logo=sqlite&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/%20SQL%20-C47F22?style=flat&logo=databricks&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/%20PostgreSQL%20-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img src="https://img.shields.io/badge/%20MongoDB%20-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
 <img src="https://img.shields.io/badge/%20GitHub%20-24292F?style=flat&logo=github&logoColor=white" alt="GitHub" />
