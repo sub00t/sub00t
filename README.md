@@ -13,8 +13,8 @@
 
 <br>
 
-<img height="26" src="https://img.shields.io/badge/%20Microsoft_Azure%20-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Microsoft Azure" />
-<img height="26" src="https://img.shields.io/badge/%20Amazon_AWS%20-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="Amazon AWS" />
+<img height="26" src="https://img.shields.io/badge/%20Azure%20-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img height="26" src="https://img.shields.io/badge/%20AWS%20-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="AWS" />
 <img height="26" src="https://img.shields.io/badge/%20Claude_Code%20-D97757?style=flat&logo=claude&logoColor=white" alt="Claude Code" />
 <img height="26" src="https://img.shields.io/badge/%20OpenAI_Codex%20-10A37F?style=flat&logo=openai&logoColor=white" alt="OpenAI Codex" />
 
