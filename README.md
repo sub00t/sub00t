@@ -23,7 +23,7 @@
 
 <!-- ================= ABOUT ================= -->
 
-<h2>Who am I</h2>
+<h1>Who Am I</h1>
 
 <p align="left">
   I'm a software developer focused on building reliable,
